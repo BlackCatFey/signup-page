@@ -14,3 +14,23 @@ h1 {
 h2 {
     color:cadetblue;
 }
+
+background {
+    background-color:darkcyan;
+}
+
+header {
+    background-color: cyan;
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+section {
+    background-color: lightcyan;
+    padding: 25px;
+    margin: 15px 0;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
