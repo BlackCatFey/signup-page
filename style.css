@@ -34,3 +34,10 @@ section {
     border-radius: 8px;
     border: 1px solid #ccc;
 }
+
+.box {
+    border: 3px dashed #2c7a7b;
+    padding: 60px;
+    margin: 40px 0;
+    background-color: #ffffff;
+}
